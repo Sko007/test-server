@@ -1,0 +1,15 @@
+{
+  "name": "trv-venue-hotel-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json"
+  },
+  "author": "severin koch",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1",
+    "json-server-relationship": "^0.14.5"
+  }
+}
